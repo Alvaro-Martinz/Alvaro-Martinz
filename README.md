@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Álvaro!
 
-<!--
-**Alvaro-Martinz/Alvaro-Martinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Former philologist and EN-ES translator **transitioning into Data Analytics**.
+I come from a world mainly based on words: rigour, attention to detail and the ability to explain complex ideas to non-technical audiences. Now I'm applying that to data.
 
-Here are some ideas to get you started:
+This profile documents **Project Argos**, my learning journey from scratch, with real projects added as I progress.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧭 Learning path
+
+| Block | Content | Status |
+|---|---|---|
+| 0 | Statistics, probability, inference and A/B testing | 🟢 Completed |
+| 1 | Excel for data analysis | 🟡 In process |
+| 2 | SQL | ⚪ Upcoming |
+| 3 | Git and GitHub | ⚪ Upcoming |
+| 4 | Power BI / Looker Studio | ⚪ Upcoming |
+| 5 | Python and Pandas | ⚪ Upcoming |
+| 6 | Business acumen and metrics | ⚪ Upcoming |
+
+### 📂 Projects
+
+*Coming soon.* This is where my analyses and dashboards will live as I build them.
+
+### 🌍 Languages
+
+Spanish (native) · English (C1)
+
+### 📫 Contact
+
+- LinkedIn: www.linkedin.com/in/amsanalytics
+- Email: alvaroms.analytics@gmail.com
